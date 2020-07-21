@@ -7,3 +7,5 @@ Instructions -
 1. Import employee.sql table in your MySQL database.
 2. Update config.php file.
 
+demo:https://makitweb.com/demo/datatable_customsearch/
+
